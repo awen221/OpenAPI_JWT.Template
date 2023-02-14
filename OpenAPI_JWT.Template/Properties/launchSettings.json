@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "OpenAPI.JWT.Template": {
+    "OpenAPI_JWT.Template": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

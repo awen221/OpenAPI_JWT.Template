@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 
-namespace OpenAPI.JWT.Template.Controllers
+namespace OpenAPI_JWT.Template.Controllers
 {
-    using OpenAPI.JWT.Core;
+    using OpenAPI_JWT.Core;
 
     /// <summary>
     /// AuthenticationController
@@ -11,7 +11,7 @@ namespace OpenAPI.JWT.Template.Controllers
     [Route("[controller]/[action]")]
     [ApiController]
     [Authorize]
-    public class Authentication : JWT.Controllers.Authentication
+    public class Authentication : OpenAPI_JWT.Controllers.Authentication
     {
         /// <summary>
         /// AuthenticationController

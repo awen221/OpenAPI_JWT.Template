@@ -7,4 +7,8 @@
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Submodules\OpenAPI_JWT\OpenAPI_JWT.csproj" />
+  </ItemGroup>
+
 </Project>

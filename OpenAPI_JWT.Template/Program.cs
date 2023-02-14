@@ -1,4 +1,4 @@
-namespace OpenAPI.JWT.Template
+namespace OpenAPI_JWT.Template
 {
     /// <summary>
     /// Program
@@ -15,7 +15,7 @@ namespace OpenAPI.JWT.Template
     /// <summary>
     /// StartUp
     /// </summary>
-    public class StartUp : JWT.StartUp
+    public class StartUp : OpenAPI_JWT.StartUp
     {
         /// <summary>
         /// 

@@ -1,0 +1,7 @@
+[submodule "Submodules/OpenAPI_JWT"]
+	path = Submodules/OpenAPI_JWT
+	url = https://github.com/awen221/OpenAPI_JWT.git
+[submodule "Submodules/OpenAPI"]
+	path = Submodules/OpenAPI
+	url = https://github.com/awen221/OpenAPI.git
+	branch = master
